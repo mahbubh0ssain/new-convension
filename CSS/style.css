@@ -6,3 +6,11 @@
 .navbar {
   background-color: rgb(240, 213, 255);
 }
+
+.special-card {
+  background-color: rgb(100, 100, 255);
+  border-radius: 20px;
+}
+.card {
+  border: none;
+}

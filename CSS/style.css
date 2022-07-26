@@ -11,6 +11,10 @@
   background-color: rgb(100, 100, 255);
   border-radius: 20px;
 }
+.card-body-convension {
+  background-color: rgb(233, 250, 255);
+  border-radius: 20px;
+}
 .card {
   border: none;
 }
